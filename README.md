@@ -19,7 +19,7 @@
                                                      
 
 # Connect 🤝
-![image](https://user-images.githubusercontent.com/83868203/196037861-d6c1ac1f-1a39-4da1-96aa-5f0d81c68ceb.png)
+![image](https://user-images.githubusercontent.com/83868203/196038252-1324543d-152b-4ee5-a54c-d7c3de6988a6.png)![image](https://user-images.githubusercontent.com/83868203/196038267-ec28040a-d886-4ae6-964f-efa1c29fd038.png)![image](https://user-images.githubusercontent.com/83868203/196037861-d6c1ac1f-1a39-4da1-96aa-5f0d81c68ceb.png)
 
 <!---
 Anand-AppleX/Anand-AppleX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
