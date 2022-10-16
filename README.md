@@ -14,7 +14,9 @@
 
 
 # Skills 🚀
-![hey](https://user-images.githubusercontent.com/83868203/196037770-767aeb04-dd06-4ec7-8736-55aa644731d5.svg)
+![image](https://user-images.githubusercontent.com/83868203/196038222-ba9f6b6a-c858-4719-af87-f638a3f7d86e.png)
+
+                                                     
 
 # Connect 🤝
 ![image](https://user-images.githubusercontent.com/83868203/196037861-d6c1ac1f-1a39-4da1-96aa-5f0d81c68ceb.png)
